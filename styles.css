@@ -1,0 +1,41 @@
+/* 전체 페이지 기본 */
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* 헤더 스타일 */
+header {
+  background-color: #add3fa;
+  color: #737ad6;
+  padding: 20px;
+  font-size: 2rem;
+}
+
+/* 네비게이션 링크 */
+nav a {
+  color: #0066cc;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 1rem;
+}
+
+/* 섹션 배경 */
+section {
+  background-color: #ffffff;
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #dddddd;
+}
+
+/* 푸터 스타일 */
+footer {
+  background-color: #222222;
+  color: #dddddd;
+  font-size: 0.875rem;
+  text-align: center;
+  padding: 10px;
+}
